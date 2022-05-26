@@ -33,5 +33,5 @@
  * @return {number}
  */
 const hammingWeight = function(n) {
-    
+    d
 };
