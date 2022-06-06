@@ -33,5 +33,7 @@
  * @return {number}
  */
 const hammingWeight = function(n) {
-    ddd
+    return n.toString(2).split("0").join('').length
 };
+
+console.log(hammingWeight(11111111111111111111111111111101))
